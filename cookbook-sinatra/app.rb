@@ -11,7 +11,3 @@ end
 get '/' do
   erb :index
 end
-
-get '/about.' do
-  "Hello World"
-end
